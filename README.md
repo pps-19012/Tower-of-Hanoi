@@ -1,4 +1,5 @@
 # Tower of Hanoi game
+This game is based on ancient puzzle.
 The main file to run is tower_of_hanoi.py. 
 There is another file instructions.py, which can be opened by a 'How to Play' button which you will see in main file.
 Instructions on how to play the game will show when instructions.py file is run.
